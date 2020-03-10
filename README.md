@@ -8,7 +8,7 @@ Um webapp simples feito em ReactJS onde você pode pesquisar por repositórios d
 
 Feito apenas com ReactJS utilizando styled-components para a estilização. A versão live está utilizando memória local do browser, assim, quando acessar não verá nenhum repositório na lista. Adicione um repositório pesquisando no seguinte formato: usuario_dono/nome_do_repositorio  
 
-## [See it live here!](https://repo-issue-viewer.netlify.com/)  
+## [See it live here! / Veja ao vivo aqui!](https://repo-issue-viewer.netlify.com/)  
 
 ### Preview
 ![preview](https://raw.githubusercontent.com/PooWoox/repo-issue-viewer/master/repo_issue_viewer_prev.gif)
